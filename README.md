@@ -5,4 +5,18 @@ The purpose of this analysis was to use the information from CitiBike in NYC to 
 
 # Results
 
-Story can be viewed here [link to dashboard] (https://public.tableau.com/app/profile/ryan.jeffery/viz/CitiBikeChallenge_16572378779900/Story1?publish=yes)
+Story can be viewed [here](https://public.tableau.com/app/profile/ryan.jeffery/viz/CitiBikeChallenge_16572378779900/Story1?publish=yes)
+
+## Trip Duration
+
+## Trip Duration by Gender
+
+## Trips by Weekday per Hour
+
+## Trips by Gender (Weekday per Hour)
+
+## User Trips by Gender
+
+## Peak Hours by Day in August
+
+## Bike Repairs
