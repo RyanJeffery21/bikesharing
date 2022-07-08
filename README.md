@@ -7,6 +7,8 @@ The purpose of this analysis was to use the information from CitiBike in NYC to 
 
 Story can be viewed [here](https://public.tableau.com/app/profile/ryan.jeffery/viz/CitiBikeChallenge_16572378779900/Story1?publish=yes)
 
+## Top Starting Locations
+!
 ## Trip Duration
 
 ## Trip Duration by Gender
